@@ -1,5 +1,4 @@
 from datetime import datetime
-import sys
 from twitter import Api
 from json import dumps
 
