@@ -1,0 +1,1480 @@
+{
+    "requestId": 13,
+    "version": 1,
+    "grabber": {
+        "name": "TwitterGrabber",
+        "version": 1,
+        "authors": [
+            {
+                "name": "Иларионов Дмитрий",
+                "email": "d.ilarionov@pflb.ru"
+            }
+        ],
+        "source": {
+            "title": "Твиттер",
+            "url": "https://twitter.com",
+            "logo": "https://g.twimg.com/about/feature-corporate/image/twitterbird_RGB.png"
+        }
+    },
+    "results": [
+        {
+            "query": "selenium",
+            "posts": [
+                {
+                    "url": "http://twitter.com/YPRACE/status/839626313472303104",
+                    "original": [
+                        "https://t.co/efuSG4wUIP"
+                    ],
+                    "language": "en",
+                    "title": "I added a video to a @YouTube playlist https://t.co/efuSG4wUIP Plini - Selenium Forest",
+                    "popularity": 0,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/PriamalFear/status/839622546261565441",
+                    "original": [
+                        "https://t.co/yaUs3YYRHy"
+                    ],
+                    "language": "en",
+                    "title": "Myo-inositol and selenium reduce the risk of developing overt hypothyroidism in patients with autoimmune thyroiditis\nhttps://t.co/yaUs3YYRHy",
+                    "popularity": 0,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/Nikolay_A00/status/839622536946143236",
+                    "original": [
+                        "https://t.co/LxVV0OaSOE"
+                    ],
+                    "language": "en",
+                    "title": "Best Blogs/Websites to Learn Test Automation Using Selenium Webdriver https://t.co/LxVV0OaSOE https://t.co/JRB7dYikHZ",
+                    "popularity": 1,
+                    "image": [
+                        "http://pbs.twimg.com/media/C6bwPxDWQAcCGO2.jpg"
+                    ]
+                },
+                {
+                    "url": "http://twitter.com/PriamalFear/status/839621822400229376",
+                    "original": [
+                        "https://t.co/PIwpORnwIi"
+                    ],
+                    "language": "en",
+                    "title": "Myo-Inositol plus selenium supplementation restores euthyroid state in Hashimoto’s patients with subclinical ...\nhttps://t.co/PIwpORnwIi",
+                    "popularity": 0,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/JohnnyKTDoe/status/839620821505060864",
+                    "original": [],
+                    "language": "en",
+                    "title": "Posting Automated Message Using Selenium WebDriver",
+                    "popularity": 0,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/JHigginbot/status/839620536527376384",
+                    "original": [],
+                    "language": "en",
+                    "title": "@taykuy Selenium in #coal ash can harm  fish and accumulate in their muscle which can harm us. But hey, what's a little toxin? #scf17",
+                    "popularity": 1,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/STGroupSRL/status/839619275035926528",
+                    "original": [
+                        "https://t.co/bN1XEwh2tI"
+                    ],
+                    "language": "es",
+                    "title": "SuperOferta Liquidación en Parlantes Selenium 6\" PENTAXIALES. A solo $ 898.- y ENVÍO GRATIS!!! Consultanos https://t.co/bN1XEwh2tI",
+                    "popularity": 0,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/selenium_suiso/status/839615385640972289",
+                    "original": [],
+                    "language": "ja",
+                    "title": "授業向",
+                    "popularity": 2,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/cakarena/status/839615183932645376",
+                    "original": [
+                        "https://t.co/MFvP3Fjb3W"
+                    ],
+                    "language": "en",
+                    "title": "Was looking at Selenium  for test automation training for test trainees but  https://t.co/MFvP3Fjb3W looking like the next big thing",
+                    "popularity": 0,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/selenium_suiso/status/839614717073080320",
+                    "original": [],
+                    "language": "ja",
+                    "title": "ｸｩｰﾝ",
+                    "popularity": 2,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/selenium_suiso/status/839614631903551489",
+                    "original": [],
+                    "language": "ja",
+                    "title": "あくみせて",
+                    "popularity": 2,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/selenium_suiso/status/839614563498668032",
+                    "original": [],
+                    "language": "ja",
+                    "title": "駿台模試いつみれるんだよ",
+                    "popularity": 3,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/dmarimou/status/839611424062177284",
+                    "original": [
+                        "https://t.co/mYuNmiWKmu"
+                    ],
+                    "language": "en",
+                    "title": "How to Integrate #Sikuli with #SeleniumWebdriver https://t.co/mYuNmiWKmu via @MukeshOtwani #TestAutomation #VisualTesting",
+                    "popularity": 2,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/hughleo01/status/839610851472654336",
+                    "original": [],
+                    "language": "en",
+                    "title": "@Ardesco sharing his awesome #selenium knowledge @puppetbelfast @Liberty_IT @saucelabs https://t.co/ptzTPrPZJl",
+                    "popularity": 25,
+                    "image": [
+                        "http://pbs.twimg.com/media/C6blnAuWgAAqkDt.jpg"
+                    ]
+                },
+                {
+                    "url": "http://twitter.com/hughleo01/status/839610848704360448",
+                    "original": [],
+                    "language": "en",
+                    "title": "@Ardesco sharing nuances around implicit and explicit waits #belfast #selenium meetup https://t.co/TaZVtvUYTw",
+                    "popularity": 0,
+                    "image": [
+                        "http://pbs.twimg.com/media/C6blnTyWMAAbB2d.jpg"
+                    ]
+                },
+                {
+                    "url": "http://twitter.com/BellyBusting/status/839605903166963715",
+                    "original": [
+                        "https://t.co/ojYM1O9QZ5"
+                    ],
+                    "language": "en",
+                    "title": "Overweight people are more likely low in vit E, zinc, magnesium, selenium. Snacking on nuts can deliver a boost of… https://t.co/ojYM1O9QZ5",
+                    "popularity": 0,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/NicoleMSenior/status/839605902814609408",
+                    "original": [
+                        "https://t.co/MbR6ySHnL4"
+                    ],
+                    "language": "en",
+                    "title": "Overweight people are more likely low in vit E, zinc, magnesium, selenium. Snacking on nuts can deliver a boost of… https://t.co/MbR6ySHnL4",
+                    "popularity": 0,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/drbrighten/status/839604314150580224",
+                    "original": [
+                        "https://t.co/kscav8QwvE"
+                    ],
+                    "language": "en",
+                    "title": "Supplementing iodine in someone with a selenium deficiency can make thyroid disease worse. https://t.co/kscav8QwvE via @drbrighten",
+                    "popularity": 13,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/TalentPlusPlus/status/839604285172244480",
+                    "original": [
+                        "https://t.co/376tKr248z"
+                    ],
+                    "language": "en",
+                    "title": "Introducing Online Software Testing, QTP, Selenium, Dot Net Training - #Gurgaon #Gurugram https://t.co/376tKr248z",
+                    "popularity": 0,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/gauntface/status/839604015423873024",
+                    "original": [],
+                    "language": "en",
+                    "title": "@Shashi_shas sorry I'm afraid I can't help. I'd suggest open an issue with selenium.",
+                    "popularity": 0,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/angry_selenium/status/839602763487186945",
+                    "original": [],
+                    "language": "ru",
+                    "title": "извините мне срочно надо в самару и остальные города в туре чтобы видеть Фрэнка и ребят ЕЩЕ",
+                    "popularity": 0,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/angry_selenium/status/839602604795658240",
+                    "original": [],
+                    "language": "ru",
+                    "title": "реву",
+                    "popularity": 1,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/USJobsCognizant/status/839601599798390785",
+                    "original": [
+                        "https://t.co/xRaDyqZbig"
+                    ],
+                    "language": "en",
+                    "title": "See our latest #Dover, NH #job and click to apply: Selenium Tester - https://t.co/xRaDyqZbig #IT #Hiring",
+                    "popularity": 0,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/ThaiFantastic/status/839601450380472320",
+                    "original": [
+                        "https://t.co/M2t4EHTPqS"
+                    ],
+                    "language": "en",
+                    "title": "2x60 SULFIDE TINEA VERSICOLOR ANTI DANDRUFF SELENIUM HAIRCARE SHAMPOO TREATMENT https://t.co/M2t4EHTPqS #ebay https://t.co/oIthYQ7y5p",
+                    "popularity": 0,
+                    "image": [
+                        "http://pbs.twimg.com/media/C6bdA_6U0AI7fjY.jpg"
+                    ]
+                },
+                {
+                    "url": "http://twitter.com/MarkCTest/status/839600302147973120",
+                    "original": [
+                        "https://t.co/1lmC7PcLDd",
+                        "https://t.co/cilP2DLCw4"
+                    ],
+                    "language": "en",
+                    "title": "#100DayDeepWork Day 6 - Validating Link Sets https://t.co/1lmC7PcLDd Breaking the problem down. #csharp #webdriver… https://t.co/cilP2DLCw4",
+                    "popularity": 1,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/UriSamuels/status/839599921200267267",
+                    "original": [
+                        "https://t.co/Rsh67I8ZcW"
+                    ],
+                    "language": "en",
+                    "title": "#How to generate selenium webdriver report using the Extent 3.0 java version\n#Tech #Internet #Question #HowTO\nhttps://t.co/Rsh67I8ZcW",
+                    "popularity": 1,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/Toxicevironguru/status/839597994357866496",
+                    "original": [
+                        "https://t.co/HBbr6a0hPY"
+                    ],
+                    "language": "en",
+                    "title": "Shape change of biogenic elemental selenium nanoparticles from nanospheres to nanorods decreases their colloidal… https://t.co/HBbr6a0hPY",
+                    "popularity": 0,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/QAIquest/status/839596593301110785",
+                    "original": [
+                        "https://t.co/8uX09bdqh1"
+                    ],
+                    "language": "en",
+                    "title": "Glad to have Martin Benz as a speaker at QAI's QUEST Conference 2017, Chicago https://t.co/8uX09bdqh1 @martin_benz #QAIQUEST2017",
+                    "popularity": 0,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/slayr_io/status/839596188731072513",
+                    "original": [],
+                    "language": "en",
+                    "title": "@TheLarkInn I cant get a fairly basic webpack2 angular1.6 phantomjs2 babel6 w/ env to chrome 32 selenium-webdriver3. Works with chrome 😥",
+                    "popularity": 0,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/environmentguru/status/839593689978634241",
+                    "original": [
+                        "https://t.co/NbYsLxK7GB"
+                    ],
+                    "language": "und",
+                    "title": "Shape change of biogenic elemental selenium nanoparticles from nanospheres to nanorods… https://t.co/NbYsLxK7GB",
+                    "popularity": 0,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/environmentguru/status/839590751822626816",
+                    "original": [
+                        "https://t.co/yQC91UzuVL"
+                    ],
+                    "language": "und",
+                    "title": "Shape change of biogenic elemental selenium nanoparticles from nanospheres to nanorods… https://t.co/yQC91UzuVL",
+                    "popularity": 0,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/webdesignStatio/status/839590401652596736",
+                    "original": [
+                        "https://t.co/GLaYVB8axl"
+                    ],
+                    "language": "ja",
+                    "title": "Pythonでスクレイピング3(Selenium):クレジット(MUFG)カードの支払額の取得 - 自分基準\n 今回もSeleniumを使ってスクレイピングをしてみたのでそのメモ。 対象はクレジットカードのMUFGカードの支払... https://t.co/GLaYVB8axl",
+                    "popularity": 1,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/webdesignStatio/status/839590396082581505",
+                    "original": [
+                        "https://t.co/c7SxI10Mzi"
+                    ],
+                    "language": "ja",
+                    "title": "Selenium入門その4[Selenium WebDriver(Java/Junit4)の基本コマンド]\n 前回はEclipse環境でSelenium WebDriverでJava/Junit4を利用したテストの実装方法を... https://t.co/c7SxI10Mzi",
+                    "popularity": 0,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/Oo_CRUSTY_oO/status/839587705788989441",
+                    "original": [],
+                    "language": "en",
+                    "title": "#PeriodASong There's antimony, arsenic, aluminum, selenium, \nAnd hydrogen and oxygen and nitrogen and rhenium \nAnd Lalaium...",
+                    "popularity": 0,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/Ardesco/status/839587192364232721",
+                    "original": [
+                        "https://t.co/gc0qjul77w"
+                    ],
+                    "language": "en",
+                    "title": "Slide deck from my talk this evening at the #belfast #selenium meetup\n\nhttps://t.co/gc0qjul77w",
+                    "popularity": 14,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/JasperQuartz1/status/839585938011484164",
+                    "original": [],
+                    "language": "en",
+                    "title": "@SU_Selenium The gem gave a small grin. \" It's pretty nice. I haven't been on anything this comfortable in what seems like ages. It's great\"",
+                    "popularity": 0,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/tmj_NHC_it/status/839585121107746816",
+                    "original": [
+                        "https://t.co/hQ3ippwCGI"
+                    ],
+                    "language": "en",
+                    "title": "Can you recommend anyone for this #job in #Dover, NH? https://t.co/hQ3ippwCGI #IT #Hiring #CareerArc",
+                    "popularity": 0,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/SU_Selenium/status/839585100664827905",
+                    "original": [],
+                    "language": "en",
+                    "title": "@JasperQuartz1 +after a long day. \"Is this as comfy for you as it is for me?\" She joked.",
+                    "popularity": 0,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/SU_Selenium/status/839584981416574976",
+                    "original": [],
+                    "language": "en",
+                    "title": "@JasperQuartz1 \"Soap operas it is.\" She chuckled and leaned back as well, her eyes already growing tired. It felt so nice to be sitting +",
+                    "popularity": 0,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/JasperQuartz1/status/839584042496454668",
+                    "original": [],
+                    "language": "en",
+                    "title": "@SU_Selenium - having finished her drink. \" Whatever you want to watch is Gucci with me.\"",
+                    "popularity": 0,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/JasperQuartz1/status/839583868856463364",
+                    "original": [],
+                    "language": "en",
+                    "title": "@SU_Selenium \" Nah. I don't really watch much TV. I'm more of a music gem.\" She swung her legs up onto the bed, and lied back, already-",
+                    "popularity": 0,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/rubygems/status/839583064833552393",
+                    "original": [
+                        "https://t.co/O4hIDSVaCV"
+                    ],
+                    "language": "en",
+                    "title": "gridium (1.0.21): Gridium makes integrating ruby and Selenium a breeze.  This is not for novice automation… https://t.co/O4hIDSVaCV",
+                    "popularity": 0,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/SU_Selenium/status/839582917022085127",
+                    "original": [],
+                    "language": "en",
+                    "title": "@JasperQuartz1 \"That's true. I love my home.\" She shrugged and clicked on the TV. \"Wanna watch anything in particular?\"",
+                    "popularity": 0,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/rivi1000/status/839582079385927680",
+                    "original": [],
+                    "language": "ja",
+                    "title": "@selenium_sn クラブエフェクトがあと数日の命…( ˘ω˘ )",
+                    "popularity": 0,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/HPE_Loadrunner/status/839581748023476224",
+                    "original": [
+                        "https://t.co/08LHQMsdrg"
+                    ],
+                    "language": "en",
+                    "title": "A guide to better more robust #Selenium #automation #testing with LeanFT. https://t.co/08LHQMsdrg https://t.co/X2JpQIox2P",
+                    "popularity": 0,
+                    "image": [
+                        "http://pbs.twimg.com/media/C6bLJi9XEAAZ-N5.jpg"
+                    ]
+                },
+                {
+                    "url": "http://twitter.com/Carriebwellness/status/839580256575098881",
+                    "original": [
+                        "https://t.co/qswfEj8nU3"
+                    ],
+                    "language": "en",
+                    "title": "The brazil nut is super important for a healthy thyroid because it contains selenium. #brazilnut #gonuts… https://t.co/qswfEj8nU3",
+                    "popularity": 0,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/Osmose/status/839579659037638656",
+                    "original": [
+                        "https://t.co/Pxy1TeV1Ge"
+                    ],
+                    "language": "en",
+                    "title": "tfw you're waiting for https://t.co/Pxy1TeV1Ge to land CC @alex_gibson https://t.co/lWkQyNSXKx",
+                    "popularity": 11,
+                    "image": [
+                        "http://pbs.twimg.com/tweet_video_thumb/C6bJMLaVMAA33It.jpg"
+                    ]
+                },
+                {
+                    "url": "http://twitter.com/scientifact/status/839578222597664770",
+                    "original": [],
+                    "language": "en",
+                    "title": "Glycoprotein and selenium is found in human semen which helps reduce breast cancer in women by almost 50%.",
+                    "popularity": 0,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/PenambahBerat/status/839577938336997376",
+                    "original": [],
+                    "language": "in",
+                    "title": "Makanan yang mengandung banyak selenium seperti bawanga merah tomat telur susu dan makanan laut dapat mencegah dan mengobati ketombe",
+                    "popularity": 0,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/studydotcomjobs/status/839576465779879940",
+                    "original": [
+                        "https://t.co/hqvytETnVr"
+                    ],
+                    "language": "en",
+                    "title": "Use your #java skills to automate #quality tests improving online education: https://t.co/hqvytETnVr  #selenium https://t.co/aPZrg29T9v",
+                    "popularity": 2,
+                    "image": [
+                        "http://pbs.twimg.com/media/C6bGV-5WgAUUxKf.jpg"
+                    ]
+                },
+                {
+                    "url": "http://twitter.com/JasperQuartz1/status/839576174523256832",
+                    "original": [],
+                    "language": "en",
+                    "title": "@SU_Selenium \" I'm sorry to hear that. But hey. You still have your place. That's good, right?\"",
+                    "popularity": 0,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/JasperQuartz1/status/839575986446434305",
+                    "original": [],
+                    "language": "en",
+                    "title": "@SU_Selenium - with each step. She slowly walked to the other side of the bed and threw her jacket to the floor, sitting down next to her. -",
+                    "popularity": 0,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/JasperQuartz1/status/839575705990152194",
+                    "original": [],
+                    "language": "en",
+                    "title": "@SU_Selenium \" That sounds rough...\" She turned around, and slowly walked back to where Sel was sitting, dragging her heels along the floor-",
+                    "popularity": 0,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/soiqbot/status/839574964156174337",
+                    "original": [
+                        "https://t.co/t1iN9S0Wlh"
+                    ],
+                    "language": "en",
+                    "title": "Selenium python - looping through the tr and check i the td value is not 15 or 16\nhttps://t.co/t1iN9S0Wlh\n#python #selenium",
+                    "popularity": 0,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/SU_Selenium/status/839574814390173699",
+                    "original": [],
+                    "language": "en",
+                    "title": "@JasperQuartz1 +looked for the remote, trying not to remind herself of that situation.",
+                    "popularity": 0,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/SU_Selenium/status/839574645561044992",
+                    "original": [],
+                    "language": "en",
+                    "title": "@JasperQuartz1 + for a couch, so they had to sit there.\n\"I almost went homeless once. Rent was one day away and I was a hundred short.\" She+",
+                    "popularity": 0,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/mycoursecoupon/status/839574230266171392",
+                    "original": [
+                        "https://t.co/qBkzBc2flS"
+                    ],
+                    "language": "de",
+                    "title": "Selenium Webdriver Automate 10 commercial Sites – Basics C1 https://t.co/qBkzBc2flS #coupon",
+                    "popularity": 0,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/SU_Selenium/status/839573857560317953",
+                    "original": [],
+                    "language": "en",
+                    "title": "@JasperQuartz1 \"I understand, but you're not a bother.\" The woman ventured over to the bed and sat down. She didn't exactly have the money +",
+                    "popularity": 0,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/JasperQuartz1/status/839573338636845057",
+                    "original": [],
+                    "language": "en",
+                    "title": "@SU_Selenium Her eyes shot open at the mention of the bench. \n\"Oh... it's uh. A long story. Nothing I would want to bother you with.\"",
+                    "popularity": 0,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/SU_Selenium/status/839572770988113921",
+                    "original": [],
+                    "language": "en",
+                    "title": "@JasperQuartz1 \"Hot cocoa. Thought it would help warm you up since you're sleeping on the bench... why are you doing that again?",
+                    "popularity": 0,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/JasperQuartz1/status/839571784227827715",
+                    "original": [],
+                    "language": "en",
+                    "title": "@SU_Selenium - for making it.\" \nThe quartz gave a small nod and leaned back against the wall, closing her eyes.",
+                    "popularity": 0,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/JasperQuartz1/status/839571612550709248",
+                    "original": [],
+                    "language": "en",
+                    "title": "@SU_Selenium - it actually is.\" \nHesitantly, she lifted the mug to her lips and took a small sip. \n\"It tastes good whatever it is. Thanks-",
+                    "popularity": 0,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/JasperQuartz1/status/839571264696107011",
+                    "original": [],
+                    "language": "en",
+                    "title": "@SU_Selenium She took the mug slowly and looked at it, tilting her head a bit. \"What is this? It smells good. But I haven't a clue what-",
+                    "popularity": 0,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/SU_Selenium/status/839570784418947072",
+                    "original": [],
+                    "language": "en",
+                    "title": "@JasperQuartz1 She poured two mugs and handed one to Jasper. \"Voila. Hope it's good. Haven't made this in a while.\"",
+                    "popularity": 0,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/SU_Selenium/status/839570517971591168",
+                    "original": [],
+                    "language": "en",
+                    "title": "@JasperQuartz1 \"Oh, it's fine. I drink a lot too so-\" she stopped when she noticed Jasper was coming up to the kitchen. \"Howdy to you too.\"+",
+                    "popularity": 0,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/JasperQuartz1/status/839569341523902464",
+                    "original": [],
+                    "language": "en",
+                    "title": "@SU_Selenium - and slowly walked to the kitchen, peeking around the wall to look at what Sel was doing. \n\"Howdy.\"",
+                    "popularity": 0,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/JasperQuartz1/status/839569160921354244",
+                    "original": [],
+                    "language": "en",
+                    "title": "@SU_Selenium - impression to Sel. Somehow, someway, she needed to make it up. \nCarefully standing up from the bed, she stretched her back-",
+                    "popularity": 0,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/loker_JKT48/status/839568921615224836",
+                    "original": [
+                        "https://t.co/yTqD7zewOe"
+                    ],
+                    "language": "en",
+                    "title": "QA Automation Engineer - Selenium or NodeJS based framework Coda PaymentsLtd https://t.co/yTqD7zewOe",
+                    "popularity": 0,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/JasperQuartz1/status/839568906398334977",
+                    "original": [],
+                    "language": "en",
+                    "title": "@SU_Selenium - to the corner of the room, looking back to the kitchen awkwardly. \nJasper wasn't doing the all time best of giving a first-",
+                    "popularity": 0,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/JasperQuartz1/status/839568672758902785",
+                    "original": [],
+                    "language": "en",
+                    "title": "@SU_Selenium - away.\" \nThe quartz moved with a speed unseen before, putting the bottle back in the bag, zipping it shut, and chucking it-",
+                    "popularity": 0,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/JasperQuartz1/status/839568432400109576",
+                    "original": [],
+                    "language": "en",
+                    "title": "@SU_Selenium - herself also confessing to drinking, without even meaning to. \n\"I.. I'm sorry I should have asked you first. I'll put it-",
+                    "popularity": 0,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/JasperQuartz1/status/839568206654279687",
+                    "original": [],
+                    "language": "en",
+                    "title": "@SU_Selenium - carpet. It didn't break or anything, but it still managed to make quite a noise. \n\"Oh... uh...uh whiskey.....\" \nShe found-",
+                    "popularity": 0,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/JasperQuartz1/status/839567993587777537",
+                    "original": [],
+                    "language": "en",
+                    "title": "@SU_Selenium - her own thoughts and drinking she had completely forgot she wasn't alone. \nThe bottle fell from her hand and bounced off the-",
+                    "popularity": 0,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/JasperQuartz1/status/839567838625075203",
+                    "original": [],
+                    "language": "en",
+                    "title": "@SU_Selenium She sat reveling in the warmth she felt inside, quietly and happily. Until Sel spoke. \nSee had been so caught up already in-",
+                    "popularity": 0,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/SU_Selenium/status/839567251644813314",
+                    "original": [],
+                    "language": "und",
+                    "title": "@JasperQuartz1 +own.",
+                    "popularity": 0,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/SU_Selenium/status/839567155406467072",
+                    "original": [],
+                    "language": "en",
+                    "title": "@JasperQuartz1 + didn't really give a damn about the alcohol. She had some of her own in the fridge, and she did a lot of drinking on her +",
+                    "popularity": 0,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/JobsLosAngeles1/status/839567018412150792",
+                    "original": [
+                        "https://t.co/okv1fzZlgk"
+                    ],
+                    "language": "en",
+                    "title": "Woodland Hills, CA - Robert Half Technology - QA Automation Engineer - Selenium - Ref ID 0032... https://t.co/okv1fzZlgk #LOS #ANGELES #JOB",
+                    "popularity": 0,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/SU_Selenium/status/839566840917594118",
+                    "original": [],
+                    "language": "en",
+                    "title": "@JasperQuartz1 + the woman scrunched up her nose and took a whif of the air. \"Tequila or vodka? Weed sorta clogged up my senses.\" \nShe +",
+                    "popularity": 0,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/ConnieGuttersen/status/839566753206308866",
+                    "original": [],
+                    "language": "en",
+                    "title": "Mushrooms can be a great source of fiber, B vitamins, potassium, selenium, copper, iron, zinc, and other minerals. https://t.co/YvtoOnQtTK",
+                    "popularity": 18,
+                    "image": [
+                        "http://pbs.twimg.com/media/C6a9gpaXEAA2man.jpg"
+                    ]
+                },
+                {
+                    "url": "http://twitter.com/HPE_ALM/status/839566646842953738",
+                    "original": [
+                        "https://t.co/TGbOgisBYs"
+                    ],
+                    "language": "en",
+                    "title": "A guide to better more robust #Selenium #automation #testing with LeanFT. https://t.co/TGbOgisBYs https://t.co/ofbZpUswgs",
+                    "popularity": 0,
+                    "image": [
+                        "http://pbs.twimg.com/media/C6a9ajfXEAcuEhX.jpg"
+                    ]
+                },
+                {
+                    "url": "http://twitter.com/SU_Selenium/status/839566523924639744",
+                    "original": [],
+                    "language": "en",
+                    "title": "@JasperQuartz1 + friend, so she didn't care. She was a little more selfless than she wanted to admit... at the sound of the flask opening, +",
+                    "popularity": 0,
+                    "image": []
+                }
+            ],
+            "errors": [],
+            "processing": {
+                "start": "2017-03-10T01:51:16",
+                "finish": "2017-03-10T01:51:16"
+            }
+        },
+        {
+            "query": "#testautomation",
+            "posts": [
+                {
+                    "url": "http://twitter.com/dmarimou/status/839611424062177284",
+                    "original": [
+                        "https://t.co/mYuNmiWKmu"
+                    ],
+                    "language": "en",
+                    "title": "How to Integrate #Sikuli with #SeleniumWebdriver https://t.co/mYuNmiWKmu via @MukeshOtwani #TestAutomation #VisualTesting",
+                    "popularity": 2,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/ignitetechnical/status/839610180102983680",
+                    "original": [
+                        "https://t.co/UVCQ8tvkaD"
+                    ],
+                    "language": "en",
+                    "title": "Seeking an #Intermediate #TestAutomation #Engineer for our #VanCity client on a permanent basis! #BCjobs #IT Follow: https://t.co/UVCQ8tvkaD",
+                    "popularity": 2,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/EckhoffMichael/status/839600402417008642",
+                    "original": [
+                        "https://t.co/fXUWrQ8slx"
+                    ],
+                    "language": "en",
+                    "title": "#SoftwareTesters: want to master #TestAutomation? Check out the top 11 resources: https://t.co/fXUWrQ8slx",
+                    "popularity": 0,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/Xebia/status/839593782152687634",
+                    "original": [
+                        "https://t.co/ovFyD83SzK"
+                    ],
+                    "language": "en",
+                    "title": "Blog Read: This is what the industry needs: the human aspect! https://t.co/ovFyD83SzK #agiletesting #quality #testautomation @ErikZeedijk",
+                    "popularity": 10,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/kattilamaki/status/839585256084762627",
+                    "original": [],
+                    "language": "en",
+                    "title": "Alphabets are doing #retrospective's, #testautomation, #unittesting and using de facto tools. I might still have some improvement ideas!",
+                    "popularity": 1,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/WolvesbaneAcad/status/839577818375852032",
+                    "original": [],
+                    "language": "en",
+                    "title": "I have heard this question asked a number of times and here are some answers.\n#Testing #TestAutomation #SoftwareTesting #SoftwareQA",
+                    "popularity": 11,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/LighthouseTeam/status/839571507399507968",
+                    "original": [
+                        "https://t.co/rq6qcWGUr7"
+                    ],
+                    "language": "en",
+                    "title": "Trouble scoping your #testautomation effort? Remember 60-30-10. https://t.co/rq6qcWGUr7",
+                    "popularity": 0,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/jeffperkins8/status/839557365070458880",
+                    "original": [],
+                    "language": "en",
+                    "title": "How to be successful with #TestAutomation? Simplify! Insight from @dpaulmerrill https://t.co/pQrCDDJKUC",
+                    "popularity": 3,
+                    "image": [
+                        "http://pbs.twimg.com/media/C6a029hWUAAp3V6.jpg"
+                    ]
+                },
+                {
+                    "url": "http://twitter.com/jeffperkins8/status/839555967998181377",
+                    "original": [
+                        "https://t.co/j7j98quh9M"
+                    ],
+                    "language": "en",
+                    "title": "When there is too much urgency &amp; complexity, the learning curve for a new tool gets pushed down. Insight from… https://t.co/j7j98quh9M",
+                    "popularity": 12,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/jeffperkins8/status/839554610079666177",
+                    "original": [
+                        "https://t.co/vPUGJpdak2"
+                    ],
+                    "language": "en",
+                    "title": "How do executives feel about the actual results from #TestAutomation? This picture sums it up. Good insight from… https://t.co/vPUGJpdak2",
+                    "popularity": 34,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/QASymphony/status/839554407301795842",
+                    "original": [
+                        "https://t.co/B2owKek9Qe"
+                    ],
+                    "language": "en",
+                    "title": "Thanks for joining us and @dpaulmerrill for today's webinar #TestAutomation 101: What Tests Should We Automate First?https://t.co/B2owKek9Qe",
+                    "popularity": 3,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/jeffperkins8/status/839554250527150080",
+                    "original": [
+                        "https://t.co/HcQjfz3SOD"
+                    ],
+                    "language": "en",
+                    "title": "Excited to have @dpaulmerrill with us today for a @QASymphony #webinar about #TestAutomation. Join now.… https://t.co/HcQjfz3SOD",
+                    "popularity": 3,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/itestingwhiz/status/839541497099845633",
+                    "original": [
+                        "https://t.co/5fjll8RuE0"
+                    ],
+                    "language": "en",
+                    "title": "9 Tips to Improve #TestAutomation Effectiveness &amp; #ROI https://t.co/5fjll8RuE0 #SoftwareTesting https://t.co/MeywYSakOh",
+                    "popularity": 1,
+                    "image": [
+                        "http://pbs.twimg.com/media/C6amioeWAAALSwR.jpg"
+                    ]
+                },
+                {
+                    "url": "http://twitter.com/itestingwhiz/status/839538713013125121",
+                    "original": [
+                        "https://t.co/GHaqI9PxIu",
+                        "https://t.co/eNyokaaJc9"
+                    ],
+                    "language": "en",
+                    "title": "Why #TestAutomation Fails? Common Myths Busted with Various Scenarios for Success - https://t.co/GHaqI9PxIu via… https://t.co/eNyokaaJc9",
+                    "popularity": 1,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/itestingwhiz/status/839531164834664448",
+                    "original": [
+                        "https://t.co/nibdo7OwIm"
+                    ],
+                    "language": "en",
+                    "title": "Maximizing #ROI Through #TestAutomation https://t.co/nibdo7OwIm via @DZone #SoftwareTesting https://t.co/gYfZfv05dt",
+                    "popularity": 1,
+                    "image": [
+                        "http://pbs.twimg.com/media/C6adJJPWQAIJkUU.jpg"
+                    ]
+                },
+                {
+                    "url": "http://twitter.com/hemanthyamjala/status/839525925314314246",
+                    "original": [
+                        "https://t.co/iu1ch8WOiD"
+                    ],
+                    "language": "en",
+                    "title": "Why using #GoogleDrive for #TestAutomation is a great idea. Read on.\nhttps://t.co/iu1ch8WOiD",
+                    "popularity": 1,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/anandkarre/status/839525666928361472",
+                    "original": [
+                        "https://t.co/iWtcINJMv9"
+                    ],
+                    "language": "en",
+                    "title": "Why using #GoogleDrive for #TestAutomation is a great idea. Read on.\nhttps://t.co/iWtcINJMv9",
+                    "popularity": 1,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/jeevangallop/status/839525453845172225",
+                    "original": [
+                        "https://t.co/T3bHGyiYiO"
+                    ],
+                    "language": "en",
+                    "title": "Why using #GoogleDrive for #TestAutomation is a great idea. Read on.\nhttps://t.co/T3bHGyiYiO",
+                    "popularity": 1,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/saivram/status/839525450477105154",
+                    "original": [
+                        "https://t.co/jg5Sszy8MO"
+                    ],
+                    "language": "en",
+                    "title": "Why using #GoogleDrive for #TestAutomation is a great idea. Read on.\nhttps://t.co/jg5Sszy8MO",
+                    "popularity": 1,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/surekha4u2000/status/839525243874078720",
+                    "original": [
+                        "https://t.co/rA5ci8mH3o"
+                    ],
+                    "language": "en",
+                    "title": "Why using #GoogleDrive for #TestAutomation is a great idea. Read on.\nhttps://t.co/rA5ci8mH3o",
+                    "popularity": 1,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/kalyanrkonda/status/839525129835143168",
+                    "original": [
+                        "https://t.co/ir8XY8Wxte"
+                    ],
+                    "language": "en",
+                    "title": "Why using #GoogleDrive for #TestAutomation is a great idea. Read on.\nhttps://t.co/ir8XY8Wxte",
+                    "popularity": 2,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/subhendup/status/839524995772661761",
+                    "original": [
+                        "https://t.co/8qPZrqOnwe"
+                    ],
+                    "language": "en",
+                    "title": "Why using #GoogleDrive for #TestAutomation is a great idea. Read on.\nhttps://t.co/8qPZrqOnwe",
+                    "popularity": 1,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/galloptech/status/839524873361846273",
+                    "original": [
+                        "https://t.co/sK5Gf12voq"
+                    ],
+                    "language": "en",
+                    "title": "Why using #GoogleDrive for #TestAutomation is a great idea. Read on.\nhttps://t.co/sK5Gf12voq",
+                    "popularity": 2,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/himani_kankaria/status/839513780086259712",
+                    "original": [
+                        "https://t.co/AFk3KYrVXG"
+                    ],
+                    "language": "en",
+                    "title": "Top 12 Challenges of #Web Application #Testing - #DigitalMarketing Way #testautomation #software #makeyourownlane… https://t.co/AFk3KYrVXG",
+                    "popularity": 1,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/StickyMinds/status/839504781613936642",
+                    "original": [
+                        "https://t.co/OZlLWq2obU"
+                    ],
+                    "language": "en",
+                    "title": "#STAREAST Tutorial: Technical #TestAutomation Challenges: Patterns and Solutions with @DorothyGraham https://t.co/OZlLWq2obU",
+                    "popularity": 1,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/LeaptestSuite/status/839504436875644929",
+                    "original": [
+                        "https://t.co/QxN23kAEq4"
+                    ],
+                    "language": "en",
+                    "title": "Automate ServiceNow testing with ease: https://t.co/QxN23kAEq4 #ServiceNow #testautomation",
+                    "popularity": 1,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/TurnKeyDenver/status/839504263772434432",
+                    "original": [
+                        "https://t.co/Dkusz7hewG"
+                    ],
+                    "language": "en",
+                    "title": "Watch &amp; learn more on #SAP, #Oracle, #DevOps, &amp; #TestAutomation with webinars on demand!   https://t.co/Dkusz7hewG",
+                    "popularity": 1,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/perfectomobile/status/839499689808527361",
+                    "original": [
+                        "https://t.co/9NQ0JsRu0H"
+                    ],
+                    "language": "en",
+                    "title": "Next level #TDD?  \nIntroducing Reporting Test Driven Development (RTDD) from @ek121268 https://t.co/9NQ0JsRu0H #testautomation #testing",
+                    "popularity": 13,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/jeffperkins8/status/839498835693039619",
+                    "original": [
+                        "https://t.co/NTElL3Wcae"
+                    ],
+                    "language": "en",
+                    "title": "Great webinar today at 2pm ET about #TestAutomation w/@dpaulmerrill. You can watch live or on-demand. Register here… https://t.co/NTElL3Wcae",
+                    "popularity": 43,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/DatasourceLtd/status/839485944302559232",
+                    "original": [],
+                    "language": "en",
+                    "title": "Our global #aerospace &amp; #defence client is looking for a #TestAutomation Engineer - Permanent - #Manchester - Call us for info 01242 521358!",
+                    "popularity": 11,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/HanneLaitinen/status/839477481040199687",
+                    "original": [],
+                    "language": "fi",
+                    "title": "Ilo olla oppimassa uutta #testautomation #devops https://t.co/YAxWZO4z7u",
+                    "popularity": 3,
+                    "image": [
+                        "http://pbs.twimg.com/media/C6ZsTBOXMAMnYwp.jpg"
+                    ]
+                },
+                {
+                    "url": "http://twitter.com/Conmore_SE/status/839477035168845824",
+                    "original": [],
+                    "language": "sv",
+                    "title": "Conmore erbjuder ett komplett utbud av #testautomation i ett skalbart format. #TechnicalTeamSpirit #ingenjör",
+                    "popularity": 1,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/itestingwhiz/status/839473782700052481",
+                    "original": [
+                        "https://t.co/ESurnxHXry"
+                    ],
+                    "language": "en",
+                    "title": "Watch the #Webinar recording to learn the Essentials of #TestAutomation for maintaining #DigitalAssurance… https://t.co/ESurnxHXry",
+                    "popularity": 1,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/Keytorc/status/839450292525596672",
+                    "original": [
+                        "https://t.co/LtDagvFooh"
+                    ],
+                    "language": "is",
+                    "title": "[BLOG] #SeleniumCamp, Marcus Merrell Sunumundan Notlar https://t.co/LtDagvFooh #SoftwareTesting #TestAutomation https://t.co/NxPqRo8Ocw",
+                    "popularity": 1,
+                    "image": [
+                        "http://pbs.twimg.com/media/C6ZTlzMXMAAndCq.jpg"
+                    ]
+                },
+                {
+                    "url": "http://twitter.com/anburabindra/status/839449909212381185",
+                    "original": [
+                        "https://t.co/t2AQUPDEgA"
+                    ],
+                    "language": "en",
+                    "title": "Top 5 Pitfalls Of #Software #TestAutomation And How to Avoid Them..,\nRead More: https://t.co/t2AQUPDEgA",
+                    "popularity": 1,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/codefusetech/status/839446634668904448",
+                    "original": [
+                        "https://t.co/V0kQnnZUTn",
+                        "https://t.co/feDCT3YO3P"
+                    ],
+                    "language": "en",
+                    "title": "Be proud of the product you build, delight customers, do awesome regression testing. https://t.co/V0kQnnZUTn #agile… https://t.co/feDCT3YO3P",
+                    "popularity": 2,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/itestingwhiz/status/839437431288053760",
+                    "original": [
+                        "https://t.co/o94xWx552C"
+                    ],
+                    "language": "en",
+                    "title": "#ContinuousTesting - What Does it Mean? https://t.co/o94xWx552C #SoftwareTesting #TestAutomation https://t.co/jfqaOFNfEZ",
+                    "popularity": 2,
+                    "image": [
+                        "http://pbs.twimg.com/media/C6ZH5NgWMAI0pAg.png"
+                    ]
+                },
+                {
+                    "url": "http://twitter.com/NekstIT/status/839428489363193857",
+                    "original": [],
+                    "language": "en",
+                    "title": "Back to school again! #java #neverstoplearning #testing #testingexcellence #whatsnekst #saucelabs #testautomation https://t.co/UzEQN0jEDG",
+                    "popularity": 45,
+                    "image": [
+                        "http://pbs.twimg.com/media/C6Y_wdgWAAEBXJk.jpg"
+                    ]
+                },
+                {
+                    "url": "http://twitter.com/_basdijkstra/status/839388037121474562",
+                    "original": [
+                        "https://t.co/WAhd11GIT8"
+                    ],
+                    "language": "en",
+                    "title": "Blogged: on false negatives and false positives in #testautomation: https://t.co/WAhd11GIT8",
+                    "popularity": 35,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/MarceloBukowski/status/839327099869548545",
+                    "original": [
+                        "https://t.co/9w2yIepfil"
+                    ],
+                    "language": "en",
+                    "title": "3 local browsers\n2 mobile devices\n3 @saucelabs browsers\n1 recorded script\nAll at the same time on #SenchaTest… https://t.co/9w2yIepfil",
+                    "popularity": 66,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/BlazeMeter/status/839259372979171328",
+                    "original": [
+                        "https://t.co/KyWGA9uFVm"
+                    ],
+                    "language": "en",
+                    "title": "Learn about @GatlingTool for #loadtesting &amp; how @Taurus_Test #testautomation brings added value… https://t.co/KyWGA9uFVm",
+                    "popularity": 22,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/itestingwhiz/status/839256356150472704",
+                    "original": [
+                        "https://t.co/OhxTtYrG3O"
+                    ],
+                    "language": "en",
+                    "title": "#TestAutomation is Challenged by the #IoT https://t.co/OhxTtYrG3O via @DZone #SoftwareTesting https://t.co/EfpDHB4rnO",
+                    "popularity": 22,
+                    "image": [
+                        "http://pbs.twimg.com/media/C6WjNPvU0AAdyru.jpg"
+                    ]
+                },
+                {
+                    "url": "http://twitter.com/thinksysinc/status/839253099504107520",
+                    "original": [
+                        "https://t.co/aFzZQOiN9P"
+                    ],
+                    "language": "en",
+                    "title": "Can #TestAutomation provide a good #retail therapy?\n\nhttps://t.co/aFzZQOiN9P https://t.co/GImhzLc6gA",
+                    "popularity": 1,
+                    "image": [
+                        "http://pbs.twimg.com/media/C6WgPtEWcAA8gvp.jpg"
+                    ]
+                },
+                {
+                    "url": "http://twitter.com/ignitetechnical/status/839249055947509760",
+                    "original": [
+                        "https://t.co/UVCQ8tdIM3"
+                    ],
+                    "language": "en",
+                    "title": "Seeking an #Intermediate #TestAutomation #Engineer for our #VanCity client on a permanent basis! #BCjobs #IT Follow: https://t.co/UVCQ8tdIM3",
+                    "popularity": 1,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/TurnKeyDenver/status/839245536167239680",
+                    "original": [
+                        "https://t.co/nUwimhlI5Q"
+                    ],
+                    "language": "en",
+                    "title": "To #CIOs: Did Critical #ERP #Security Updates &amp; Patches Cause the PoS Breach?  #TestAutomation #SoftwareTesting  https://t.co/nUwimhlI5Q",
+                    "popularity": 2,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/Xebia/status/839219106092044289",
+                    "original": [
+                        "https://t.co/P2AYml0gWJ"
+                    ],
+                    "language": "en",
+                    "title": "Download the Test Automation Survey 2016 here! https://t.co/P2AYml0gWJ #testautomation #testing #testsurvey https://t.co/xsUxz4Ombb",
+                    "popularity": 11,
+                    "image": [
+                        "http://pbs.twimg.com/media/C6WBVD_WAAUUDuM.jpg"
+                    ]
+                },
+                {
+                    "url": "http://twitter.com/miikasoininen/status/839217946006278145",
+                    "original": [
+                        "https://t.co/IMHqmGGlTp"
+                    ],
+                    "language": "en",
+                    "title": "\"We are about to turn over most test design and validation to Artificial Intelligence (AI).\" #AI #testautomation https://t.co/IMHqmGGlTp",
+                    "popularity": 4,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/hemanthyamjala/status/839201282590113792",
+                    "original": [
+                        "https://t.co/XUQ8f1L7Vh"
+                    ],
+                    "language": "en",
+                    "title": "#TestAutomation #PerformanceTesting assurance desired results in #retail. Let us know your views. https://t.co/XUQ8f1L7Vh",
+                    "popularity": 2,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/saivram/status/839200825012547586",
+                    "original": [
+                        "https://t.co/9yBO0DJHnj"
+                    ],
+                    "language": "en",
+                    "title": "#TestAutomation #PerformanceTesting assurance desired results in #retail. Let us know your views. https://t.co/9yBO0DJHnj",
+                    "popularity": 1,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/jeevangallop/status/839200774244741120",
+                    "original": [
+                        "https://t.co/fehx0Hy1vw"
+                    ],
+                    "language": "en",
+                    "title": "#TestAutomation #PerformanceTesting assurance desired results in #retail. Let us know your views. https://t.co/fehx0Hy1vw",
+                    "popularity": 1,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/kalyanrkonda/status/839200582867030016",
+                    "original": [
+                        "https://t.co/8F91AH5MgA"
+                    ],
+                    "language": "en",
+                    "title": "#TestAutomation #PerformanceTesting assurance desired results in #retail. Let us know your views. https://t.co/8F91AH5MgA",
+                    "popularity": 1,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/surekha4u2000/status/839200577246593025",
+                    "original": [
+                        "https://t.co/eCcUcB4FnO"
+                    ],
+                    "language": "en",
+                    "title": "#TestAutomation #PerformanceTesting assurance desired results in #retail. Let us know your views. https://t.co/eCcUcB4FnO",
+                    "popularity": 1,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/anandkarre/status/839200571722723332",
+                    "original": [
+                        "https://t.co/AEe8jKF5bm"
+                    ],
+                    "language": "en",
+                    "title": "#TestAutomation #PerformanceTesting assurance desired results in #retail. Let us know your views. https://t.co/AEe8jKF5bm",
+                    "popularity": 1,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/subhendup/status/839200500885118977",
+                    "original": [
+                        "https://t.co/F9C2ksWAHQ"
+                    ],
+                    "language": "en",
+                    "title": "#TestAutomation #PerformanceTesting assurance desired results in #retail. Let us know your views. https://t.co/F9C2ksWAHQ",
+                    "popularity": 1,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/galloptech/status/839200275080577024",
+                    "original": [
+                        "https://t.co/nDjCYHHHWE"
+                    ],
+                    "language": "en",
+                    "title": "#TestAutomation #PerformanceTesting assurance desired results in #retail. Let us know your views. https://t.co/nDjCYHHHWE",
+                    "popularity": 1,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/amcorrigal/status/839199332003905537",
+                    "original": [],
+                    "language": "en",
+                    "title": "When did it become the dominant thinking that GUI #testautomation == web site automation? 🙄 Google results r a lot less relevant now",
+                    "popularity": 4,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/LighthouseTeam/status/839183946760007681",
+                    "original": [
+                        "https://t.co/blv3dWszrH"
+                    ],
+                    "language": "en",
+                    "title": "At first glance, #Agile and #TestAutomation may seem like oil and water.  But is that really the case? https://t.co/blv3dWszrH",
+                    "popularity": 1,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/TestDetective/status/839180338098241537",
+                    "original": [
+                        "https://t.co/vEE4feqmWv"
+                    ],
+                    "language": "en",
+                    "title": "In this context - is there still any reason to explicitly distinguish terms #TestAutomation and #Testing ? https://t.co/vEE4feqmWv",
+                    "popularity": 1,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/yourzephyr/status/839175072195694592",
+                    "original": [
+                        "https://t.co/nFgbxCnEG8"
+                    ],
+                    "language": "en",
+                    "title": "From #TestAutomation to testing model changes, here's how testers can succeed in the age of digital transformation:… https://t.co/nFgbxCnEG8",
+                    "popularity": 2,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/hemanthyamjala/status/839163574756978688",
+                    "original": [
+                        "https://t.co/JOJvkA8fkK"
+                    ],
+                    "language": "en",
+                    "title": "How a #retail biggie leveraged #TestAutomation for better customer experience. Read on. https://t.co/JOJvkA8fkK",
+                    "popularity": 1,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/subhendup/status/839163498357796864",
+                    "original": [
+                        "https://t.co/84BQczUtdN"
+                    ],
+                    "language": "en",
+                    "title": "How a #retail biggie leveraged #TestAutomation for better customer experience. Read on. https://t.co/84BQczUtdN",
+                    "popularity": 1,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/anandkarre/status/839163256380002304",
+                    "original": [
+                        "https://t.co/wY0Agkmi6I"
+                    ],
+                    "language": "en",
+                    "title": "How a #retail biggie leveraged #TestAutomation for better customer experience. Read on. https://t.co/wY0Agkmi6I",
+                    "popularity": 1,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/saivram/status/839163217670778881",
+                    "original": [
+                        "https://t.co/QEqS9lUHNl"
+                    ],
+                    "language": "en",
+                    "title": "How a #retail biggie leveraged #TestAutomation for better customer experience. Read on. https://t.co/QEqS9lUHNl",
+                    "popularity": 1,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/jeevangallop/status/839163184116281344",
+                    "original": [
+                        "https://t.co/UqAeWuPBVD"
+                    ],
+                    "language": "en",
+                    "title": "How a #retail biggie leveraged #TestAutomation for better customer experience. Read on. https://t.co/UqAeWuPBVD",
+                    "popularity": 1,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/kalyanrkonda/status/839162825239052288",
+                    "original": [
+                        "https://t.co/tI0BftfYQ3"
+                    ],
+                    "language": "en",
+                    "title": "How a #retail biggie leveraged #TestAutomation for better customer experience. Read on. https://t.co/tI0BftfYQ3",
+                    "popularity": 1,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/surekha4u2000/status/839162811708243968",
+                    "original": [
+                        "https://t.co/y9zN1GLyhW"
+                    ],
+                    "language": "en",
+                    "title": "How a #retail biggie leveraged #TestAutomation for better customer experience. Read on. https://t.co/y9zN1GLyhW",
+                    "popularity": 1,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/galloptech/status/839162688336977925",
+                    "original": [
+                        "https://t.co/N6fc0kk5tn"
+                    ],
+                    "language": "en",
+                    "title": "How a #retail biggie leveraged #TestAutomation for better customer experience. Read on. https://t.co/N6fc0kk5tn",
+                    "popularity": 11,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/peterflorijn/status/839154345413324800",
+                    "original": [
+                        "https://t.co/EjJZnqkS6G"
+                    ],
+                    "language": "en",
+                    "title": "The latest Test automation journal! https://t.co/EjJZnqkS6G Thanks to @ruchikalal45 @hackerbits @4_freelancers #testautomation",
+                    "popularity": 1,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/jmsampayo/status/839152048620843010",
+                    "original": [
+                        "https://t.co/6dgaqYGZ0h"
+                    ],
+                    "language": "en",
+                    "title": "Great Dilbert comic! ... thinking it's like Hilbert's paradox, how would we automatically test our test automation?… https://t.co/6dgaqYGZ0h",
+                    "popularity": 1,
+                    "image": []
+                },
+                {
+                    "url": "http://twitter.com/himani_kankaria/status/839151381944598529",
+                    "original": [
+                        "https://t.co/U3Tt5fCOSf"
+                    ],
+                    "language": "en",
+                    "title": "4 Ways to Select the Right #Software #TestAutomation Tool #softwaretesting #webapps #mobileapps #defstar5 #startups… https://t.co/U3Tt5fCOSf",
+                    "popularity": 1,
+                    "image": []
+                }
+            ],
+            "errors": [],
+            "processing": {
+                "start": "2017-03-10T01:51:16",
+                "finish": "2017-03-10T01:51:16"
+            }
+        }
+    ]
+}
