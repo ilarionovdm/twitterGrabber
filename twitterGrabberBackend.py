@@ -85,9 +85,7 @@ def return_result(rv, queries, tweets):
                 images = []
                 for m in media:
                     images.append(str(m.media_url))
-            except AttributeError:
-                images = []
-            except TypeError:
+            except (AttributeError, TypeError):
                 images = []
             originals = tweet.urls
             original = []
