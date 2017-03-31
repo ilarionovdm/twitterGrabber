@@ -1,4 +1,6 @@
 from datetime import datetime
+
+from bottle import response
 from twitter import Api
 from json import dumps
 
@@ -50,8 +52,10 @@ def get_twits_list(request):
     try:
         for word in queries:
             tweets[word] = api.GetSearch(raw_query=queries_search[word])
+        response.body = return_result(rv, queries, tweets)
         return return_result(rv, queries, tweets)
     except Exception as e:
+        response.body = return_error(rv, e)
         return return_error(rv, e)
 
 
