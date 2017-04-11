@@ -8,7 +8,7 @@ setup(
     license='',
     author='D. Ilarionov',
     author_email='d.ilarionov@pflb.ru',
-    description='twitterGrabber', requires=['bottle', 'python-twitter']
+    description='twitterGrabber', requires=['bottle', 'python-twitter', 'twitter']
 )
 
 #{  	"requestId": 13, 	"version": 1, 	"queries": [ 		"selenium", 		"#testautomation"     ], 	"period": {     	"fromDate": "2017-03-01", 		"toDate": "2017-03-09"     } }
